@@ -1,0 +1,34 @@
+{
+  "age": {
+    "LongName": "age",
+    "Units": "years",
+    "TermURL": "http://purl.obolibrary.org/obo/PATO_0000011"
+  },
+  "sex": {
+    "LongName": "sex",
+    "Description": "String value indicating phenotypical sex.",
+    "TermURL": "http://purl.obolibrary.org/obo/PATO_0001894",
+    "Levels": {
+      "F": {
+        "Description": "Female",
+        "TermURL": "http://purl.obolibrary.org/obo/PATO_0000383"
+      },
+      "M": {
+        "Description": "Male",
+        "TermURL": "http://purl.obolibrary.org/obo/PATO_0000384"
+      }
+    }
+  },
+  "handedness": {
+    "LongName": "handedness",
+    "Description": "Indicates the dominant hand for this subject as determined by the Edinburgh Handedness Inventory (EHI).",
+    "Levels": {
+      "Right": {
+        "Description": "Subject is right-handed."
+      },
+      "Left": {
+        "Description": "Subject is left-handed."
+      }
+    }
+  }
+}
