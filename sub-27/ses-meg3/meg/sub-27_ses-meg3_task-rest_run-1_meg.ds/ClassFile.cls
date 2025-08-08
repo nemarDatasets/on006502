@@ -1,0 +1,1 @@
+../../../../.git/annex/objects/vq/zF/SHA256E-s336--fb37922dfba823a5f4f4111bc59c56e29d44ce38bdf37173fea6e960d03a95c0.cls/SHA256E-s336--fb37922dfba823a5f4f4111bc59c56e29d44ce38bdf37173fea6e960d03a95c0.cls

@@ -1,0 +1,1 @@
+../../../../.git/annex/objects/86/MF/SHA256E-s336--3a2b6ca4bddc21a2ebdc0cddaa6dca4d70a5280a012240495d236a625ee9c2aa.cls/SHA256E-s336--3a2b6ca4bddc21a2ebdc0cddaa6dca4d70a5280a012240495d236a625ee9c2aa.cls

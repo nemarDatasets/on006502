@@ -1,0 +1,1 @@
+../../../../.git/annex/objects/gM/3q/SHA256E-s338--7334299cd41e6d0bb46aa3bcf36011c55270dbb6c3bc87ebbdc4d8d6a6a7d7ea.cls/SHA256E-s338--7334299cd41e6d0bb46aa3bcf36011c55270dbb6c3bc87ebbdc4d8d6a6a7d7ea.cls

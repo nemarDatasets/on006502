@@ -1,0 +1,1 @@
+../../../../.git/annex/objects/xG/m5/SHA256E-s336--46a94edcca2cb3b8f9c06e86da64d23c6b60ca8788fb32d916a0b20a35e85144.cls/SHA256E-s336--46a94edcca2cb3b8f9c06e86da64d23c6b60ca8788fb32d916a0b20a35e85144.cls

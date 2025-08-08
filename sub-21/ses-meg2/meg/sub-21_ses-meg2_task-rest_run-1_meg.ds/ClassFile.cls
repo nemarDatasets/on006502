@@ -1,0 +1,1 @@
+../../../../.git/annex/objects/q7/jx/SHA256E-s336--483eced79679b40f674eb862801fcda394f2b0f548d99fcadd45ba8404cdc11e.cls/SHA256E-s336--483eced79679b40f674eb862801fcda394f2b0f548d99fcadd45ba8404cdc11e.cls

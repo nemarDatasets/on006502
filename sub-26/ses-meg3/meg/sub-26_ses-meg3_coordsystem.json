@@ -1,0 +1,13 @@
+{
+	"HeadCoilCoordinateSystem":"CTF",
+	"HeadCoilCoordinateSystemDescription":"CTF head coordinates, orientation ALS, origin between the ears",
+	"HeadCoilCoordinateUnits":"cm",
+	"HeadCoilCoordinates":{
+		"nasion":[9.17347,0,0],
+		"lpa":[-0.08513,7.16153,0],
+		"rpa":[0.08513,-7.16153,0]
+	},
+	"MEGCoordinateSystem":"CTF",
+	"MEGCoordinateSystemDescription":"CTF head coordinates, orientation ALS, origin between the ears",
+	"MEGCoordinateUnits":"cm"
+}

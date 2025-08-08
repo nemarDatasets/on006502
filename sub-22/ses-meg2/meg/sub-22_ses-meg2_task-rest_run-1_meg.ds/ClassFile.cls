@@ -1,0 +1,1 @@
+../../../../.git/annex/objects/qP/gX/SHA256E-s336--ea0cb804e77d0c79495184201dc3fff806aed1d0a4325d3f9a7594a0a957b6ab.cls/SHA256E-s336--ea0cb804e77d0c79495184201dc3fff806aed1d0a4325d3f9a7594a0a957b6ab.cls

@@ -1,0 +1,1 @@
+../../../../.git/annex/objects/8z/87/SHA256E-s336--962fb4577d0e15597fb008d1462c3952b88cb6de98cdc724c0c638c8fd02ed9f.cls/SHA256E-s336--962fb4577d0e15597fb008d1462c3952b88cb6de98cdc724c0c638c8fd02ed9f.cls

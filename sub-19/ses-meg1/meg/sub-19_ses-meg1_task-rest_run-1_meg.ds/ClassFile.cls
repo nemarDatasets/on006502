@@ -1,0 +1,1 @@
+../../../../.git/annex/objects/9F/3g/SHA256E-s336--1c29f922fd20cc2d547604a2e3cd65c3da02fc33f78bca1bfdbd8ace3bd1c5ad.cls/SHA256E-s336--1c29f922fd20cc2d547604a2e3cd65c3da02fc33f78bca1bfdbd8ace3bd1c5ad.cls

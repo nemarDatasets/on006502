@@ -1,0 +1,1 @@
+../../../../.git/annex/objects/V6/QJ/SHA256E-s339--6a981ab32da1d1245dbb6207fb67eee6a1a96b99b15c1bd8d5e7934f4328a9f1.cls/SHA256E-s339--6a981ab32da1d1245dbb6207fb67eee6a1a96b99b15c1bd8d5e7934f4328a9f1.cls
