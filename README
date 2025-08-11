@@ -1,38 +1,9 @@
-# README
+#README
 
-The README is usually the starting point for researchers using your data
-and serves as a guidepost for users of your data. A clear and informative
-README makes your data much more usable.
-
-In general you can include information in the README that is not captured by some other
-files in the BIDS dataset (dataset_description.json, events.tsv, ...).
-
-It can also be useful to also include information that might already be
-present in another file of the dataset but might be important for users to be aware of
-before preprocessing or analysing the data.
-
-If the README gets too long you have the possibility to create a `/doc` folder
-and add it to the `.bidsignore` file to make sure it is ignored by the BIDS validator.
-
-More info here: https://neurostars.org/t/where-in-a-bids-dataset-should-i-put-notes-about-individual-mri-acqusitions/17315/3
-
-## Details related to access to the data
-
-- [ ] Data user agreement
-
-If the dataset requires a data user agreement, link to the relevant information.
-
-- [ ] Contact person
+For additional information, please contact:
+Ethan R. Buch (ethan.buch@nih.gov; ORCID: 0000-0002-5443-8222)
 
 Indicate the name and contact details (email and ORCID) of the person responsible for additional information.
-
-- [ ] Practical information to access the data
-
-If there is any special information related to access rights or
-how to download the data make sure to include it.
-For example, if the dataset was curated using datalad,
-make sure to include the relevant section from the datalad handbook:
-http://handbook.datalad.org/en/latest/basics/101-180-FAQ.html#how-can-i-help-others-get-started-with-a-shared-dataset
 
 ## Overview
 
@@ -128,10 +99,7 @@ This is especially relevant if the data are not included in a `phenotype` folder
 https://bids-specification.readthedocs.io/en/stable/03-modality-agnostic-files.html#phenotypic-and-assessment-data
 
 ### Experimental location
-
-This should include any additional information regarding the
-the geographical location and facility that cannot be included
-in the relevant json files.
+All data was collected in the Nuclear Magnetic Resonance Facility (NMRF) of the NIH Clinical Center in Bethesda, MD. 
 
 ### Missing data
 
@@ -145,10 +113,3 @@ Some examples:
   of some technical issue.
 - Any noticeable feature of the data for certain participants
 - Differences (even slight) in protocol for certain participants.
-
-### Notes
-
-Any additional information or pointers to information that
-might be helpful to users of the dataset. Include qualitative information
-related to how the data acquisition went.
-
