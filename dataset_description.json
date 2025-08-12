@@ -16,7 +16,5 @@
     ],
     "BIDSVersion": "1.10.0",
     "DatasetDOI": "ds006502",
-    "DatasetType": "Raw",
-    "GeneratedBy": "",
-    "SourceDatasets": ""
+    "DatasetType": "raw"
 }
