@@ -1,6 +1,6 @@
 {
     "Name": "Skill learning and consolidation in healthy humans",
-    "License": "",
+    "License": "CC0",
     "Authors": [
         "Bönstrup, M",
         "Buch, ER",
@@ -15,6 +15,6 @@
         ""
     ],
     "BIDSVersion": "1.10.0",
-    "DatasetDOI": "ds006502",
+    "DatasetDOI": "doi:10.18112/openneuro.ds006502.v1.0.0",
     "DatasetType": "raw"
 }
