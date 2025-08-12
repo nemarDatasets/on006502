@@ -1,4 +1,4 @@
-#README
+# README
 
 ## Contact
 
@@ -9,7 +9,7 @@ Ethan R. Buch (ethan.buch@nih.gov; ORCID: 0000-0002-5443-8222)
 
 This study was carried out by the Human Cortical Physiology & Neurorehabilitation Section (HCPS) in the NINDS Intramural Research Program. 
 
-The primary aim of the study was to investigate changes in brain activity associated with early skill learning during an initial training session, overnight skill consolidation and longer-term skill retention. A longitudinal design was used. Skill learning was assessed using the sequential finger tapping task (SFTT). Participants completed an initial session in which anatomical MRI data was acquired, followed by up to three separate MEG session. During the first MEG training session, participants repeatedly typed a 5-item skill sequence (i.e. – 4-1-3-2-4) with their non-dominant left hand over 36 practice trials (lasting 10s each) inter-leaved with short 10s rest breaks. Their instructed goal was to type the sequence as fast and as accurately as possible. This first training session was typically followed by up to two separate MEG retest sessions occurring approximately 24 hours and up to 30 days later. During these later MEG sessions, participants were retested on the trained skill (over 9 trials) and 9 different untrained control skill sequences (one trial each). Resting state MEG data was acquired before and after practice blocks during all three MEG sessions. Skill performance, eye gaze and pupillometry, and left wrist flexor/extensor EMG data were also acquired and synchronized with MEG recordings. 
+The primary aim of the study was to investigate changes in brain activity associated with early skill learning during an initial training session, overnight skill consolidation and longer-term skill retention. A longitudinal design was used. Skill learning was assessed using the sequential finger tapping task (SFTT). Participants completed an initial session in which anatomical MRI data was acquired, followed by up to three separate MEG session. During the first MEG training session, participants repeatedly typed a 5-item skill sequence (i.e. – 4-1-3-2-4) with their non-dominant left hand over 36 practice trials (lasting 10s each) inter-leaved with short 10s rest breaks. Their instructed goal was to type the sequence as fast and as accurately as possible. This first training session was typically followed by up to two separate MEG retest sessions occurring approximately 24 (mean+/-SD: 23.44+/- 1.32) hours and 30 (29.45 +/- 6.77) days later. During these later MEG sessions, participants were retested on the trained skill (over 9 trials) and 9 different untrained control skill sequences (one trial each). Resting state MEG data was acquired before and after practice blocks during all three MEG sessions. Skill performance, eye gaze and pupillometry, and left wrist flexor/extensor EMG data were also acquired and synchronized with MEG recordings. 
 
 ## Methods
 
@@ -45,14 +45,14 @@ MEG1:
 2)	12-minute “training” scan (4-1-3-2-4)
 3)	6-minute rest scan
 
-MEG2 (approximately 24 hours after MEG1 session; precise inter-session intervals can be found in participants.tsv file):
+MEG2 (approximately 24 hours after MEG1 session on average; precise inter-session intervals can be found in participants.tsv file):
 1)	6-minute rest scan
 2)	3-minute trained sequence “retest” scan (4-1-3-2-4; 36 practice trials lasting 10s each with 10s interleaved rest breaks)
 3)	6-minute rest scan
 4)	3-minute “control” sequence scan (one 10s trial each of 9 different untrained sequences [2-1-3-4-2, 4-2-4-3-1, 3-4-2-3-1, 1-4-3-4-2, 3-2-4-3-1, 1-4-2-3-1, 3-2-4-2-1, 2-3-1-4-2, 4-2-3-1-4] with 10s interleaved rest breaks)
 5)	6-minute rest scan
 
-MEG3 (up to 30 days after MEG1 session; precise inter-session intervals can be found in participants.tsv file):
+MEG3 (approximately 30 days after MEG1 session on average; precise inter-session intervals can be found in participants.tsv file):
 1)	6-minute rest scan
 2)	3-minute trained sequence “retest” scan (4-1-3-2-4; 9 practice trials lasting 10s each with 10s interleaved rest breaks)
 3)	6-minute rest scan
