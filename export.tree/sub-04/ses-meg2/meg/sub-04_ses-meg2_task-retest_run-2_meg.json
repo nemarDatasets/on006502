@@ -1,0 +1,15 @@
+{
+	"ContinuousHeadLocalization":false,
+	"InstitutionAddress":"10 Center Drive, Bethesda, MD, United States",
+	"InstitutionName":"NINDS/NIH",
+	"InstitutionalDepartmentName":"Human Cortical Physiology and Neurorehabilitation",
+	"MEGChannelCount":272,
+	"MEGREFChannelCount":28,
+	"Manufacturer":"CTF",
+	"ManufacturersModelName":"CTF-275",
+	"RecordingDuration":240,
+	"SamplingFrequency":600,
+	"TaskDescription":"Skill RETEST MEG scan.",
+	"TaskName":"retest",
+	"TriggerChannelCount":1
+}
