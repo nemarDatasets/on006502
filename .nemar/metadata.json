@@ -2,6 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Skill learning and consolidation in healthy humans",
+  "description": "This dataset comprises MEG, MRI, EMG, and eye-tracking data from 31 healthy right-handed adults performing a sequential finger tapping task (SFTT) to study early motor skill learning, overnight consolidation, and longer-term retention. Participants completed an initial MEG training session followed by up to two retest sessions approximately 24 hours and 30 days later, with resting-state MEG collected before and after each practice block. The dataset supports investigation of neural correlates of motor skill acquisition and memory consolidation.",
+  "methods_description": "T1-weighted anatomical MRI volumes (1mm3 MPRAGE) were acquired on 3T scanners. Continuous MEG and EMG were recorded on a CTF-275 system at 600Hz sampling rate, with head position tracked via digitized coils. Behavioral responses were collected via E-Prime 2 and a Cedrus response pad, while eye gaze and pupillometry were recorded with an EyeLink 1000 Plus system synchronized to MEG. Participants practiced a 5-item finger sequence with their non-dominant hand across multiple sessions spanning an initial training day, a 24-hour retest, and a 30-day retest, interspersed with resting-state scans.",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -9,6 +11,35 @@
     "Buch, ER": {},
     "Cohen, LG": {}
   },
+  "keywords": [
+    {
+      "term": "Magnetoencephalography",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D015225"
+    },
+    {
+      "term": "Motor Learning"
+    },
+    {
+      "term": "Memory Consolidation",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D000069077"
+    },
+    {
+      "term": "Finger tapping task"
+    },
+    {
+      "term": "Skill retention"
+    },
+    {
+      "term": "Electromyography",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004576"
+    },
+    {
+      "term": "Eye tracking"
+    }
+  ],
   "related_identifiers": [
     {
       "identifier": "10.18112/openneuro.ds006502.v1.0.0",
@@ -28,16 +59,18 @@
   ],
   "funding_references": [
     {
-      "funder_name": "National Institutes of Health",
-      "award_number": "Intramural Research Program (IRP)"
+      "funder_name": "Intramural Research Program (IRP) of the National Institute of Neurological Disorders and Stroke (NINDS), National Institutes of Health (NIH), Bethesda, MD, USA."
+    },
+    {
+      "funder_name": "National Institute of Neurological Disorders and Stroke (NINDS), National Institutes of Health (NIH)"
     }
   ],
   "resource_type_general": "Dataset",
+  "resource_type_specific": "MEG Dataset",
   "modalities": [
     "meg",
     "anat"
   ],
-  "resource_type_specific": "MEG Dataset",
   "sizes": [
     "102.8 GB (2748 files)"
   ],
@@ -58,31 +91,6 @@
     ".res4",
     ".tsv",
     ".yml"
-  ],
-  "description": "This longitudinal neuroimaging study investigates neural mechanisms of motor skill learning, consolidation, and retention using magnetoencephalography (MEG) combined with structural MRI. Thirty-one healthy right-handed adults performed a sequential finger-tapping task during an initial training session followed by retest sessions at approximately 24 hours and 30 days post-training. The dataset includes continuous MEG recordings, high-resolution anatomical MRI, behavioral performance metrics, eye-tracking, pupillometry, and electromyography data synchronized across all sessions.",
-  "methods_description": "Anatomical MRI was acquired using 3T scanners (GE Excite HDxt and Siemens Skyra) with T1-weighted MPRAGE sequences (1mm³ isotropic). Continuous MEG and EMG data were recorded on a CTF-275 system at 600 Hz sampling frequency in a magnetically shielded room. Head position was localized using three coils mapped to individual MRI volumes via BrainSight. Eye-tracking and pupillometry were acquired using an EyeLink 1000 Plus system. Behavioral responses were collected using E-Prime 2 and a Cedrus response pad. Participants performed a sequential finger-tapping task (5-item numerical sequence) with their non-dominant left hand across three MEG sessions: initial training, 24-hour retest, and 30-day retest.",
-  "keywords": [
-    {
-      "term": "MEG"
-    },
-    {
-      "term": "motor skill learning"
-    },
-    {
-      "term": "skill consolidation"
-    },
-    {
-      "term": "sequential finger tapping"
-    },
-    {
-      "term": "neuroplasticity"
-    },
-    {
-      "term": "motor cortex"
-    },
-    {
-      "term": "longitudinal study"
-    }
   ],
   "source_hash": "426f4c3d7a50809f55d35391044f76e0ddc718443a3adf41feb7deb467a77bf6"
 }
